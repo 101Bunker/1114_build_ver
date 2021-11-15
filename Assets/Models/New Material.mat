@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Material
+  m_Shader: {fileID: 4800000, guid: 65c158b813be00a42a09acfef11d1dc2, type: 3}
+  m_ShaderKeywords: _DETAIL_MULX2 _EMISSIONUSE_ON _NORMALMAP _REFTYPE_REF _SPECTYPE_NOSPEC
+    _USENORMAL_ON _USESHADOW_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BakedCubemap:
+        m_Texture: {fileID: 8900000, guid: 8a0098c09da60884c8dfddc41447cdb2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: d9bbaeafe43ea934785402593ff852bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClipMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClipMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 2800000, guid: d9bbaeafe43ea934785402593ff852bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 2800000, guid: 7270cc2c17c42504a8138728fd257a45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HSVMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2747858f02098aa489cdeebafaeb85e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: d9bbaeafe43ea934785402593ff852bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PBR:
+        m_Texture: {fileID: 2800000, guid: 397200bcb21072040b2406e424a35bdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampSelectionMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectivityMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 2800000, guid: 397200bcb21072040b2406e424a35bdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ThicknessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ALGradientOnBlue: 0
+    - _ALGradientOnGreen: 0
+    - _ALGradientOnRed: 0
+    - _ALUVWidth: 128
+    - _AdvMode: 0
+    - _AlphaToMask: 0
+    - _AnisotropicReflection: -0.69
+    - _AnisotropicSpecular: -0.68
+    - _BlendMode: 0
+    - _BumpScale: 1
+    - _ClearCoat: 1
+    - _ClearcoatSmoothness: 0.883
+    - _ClearcoatStrength: 0.142
+    - _ClipIndex: 0
+    - _Culling: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DissolveBlendPower: 1
+    - _DissolveCoordinates: 0
+    - _DissolveLayer1Scale: 1
+    - _DissolveLayer1Speed: 0
+    - _DissolveLayer2Scale: 0.5
+    - _DissolveLayer2Speed: 0
+    - _DissolveProgress: 0
+    - _DissolveStrength: 1
+    - _DstBlend: 0
+    - _EMISSIONUSE: 1
+    - _EmissionAudioLinkChannel: 0
+    - _EmissionToDiffuse: 0
+    - _FadeDither: 0
+    - _FadeDitherDistance: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.632
+    - _GlossyReflections: 1
+    - _HalftoneDotAmount: 5
+    - _HalftoneDotSize: 0.5
+    - _HalftoneLineAmount: 2000
+    - _HalftoneLineIntensity: 1
+    - _HalftoneType: 3
+    - _Hue: 0
+    - _IOR: 0
+    - _MatcapTintToDiffuse: 0
+    - _Metallic: 0.226
+    - _Mode: 0
+    - _NormalMapMode: 0
+    - _NormalPow: 1.02
+    - _OcclusionIntensity: 0.866
+    - _OcclusionMode: 0
+    - _OcclusionStrength: 1
+    - _OutlineAlbedoTint: 0
+    - _OutlineLighting: 0
+    - _OutlineNormalMode: 0
+    - _OutlineUVSelect: 2
+    - _OutlineWidth: 1
+    - _Parallax: 0.02
+    - _REFTYPE: 1
+    - _ReflectionBlendMode: 0
+    - _ReflectionMode: 0
+    - _ReflectionMul: 1
+    - _ReflectionPow: 1
+    - _ReflectionPow_InShadow: 3
+    - _Reflectivity: 0.601
+    - _RimAlbedoTint: 0
+    - _RimAttenEffect: 1
+    - _RimCubemapTint: 0
+    - _RimIntensity: 0
+    - _RimRange: 0.7
+    - _RimSharpness: 0.1
+    - _RimThreshold: 0.1
+    - _SPECTYPE: 0
+    - _SSDistortion: 1
+    - _SSPower: 1
+    - _SSScale: 1
+    - _Saturation: 1
+    - _ScaleWithLight: 1
+    - _ScaleWithLightSensitivity: 1
+    - _ShadowRimAlbedoTint: 1
+    - _ShadowRimRange: 0.397
+    - _ShadowRimSharpness: 0.114
+    - _ShadowRimThreshold: 0.833
+    - _ShadowSharpness: 0.605
+    - _SmoothnessTextureChannel: 0
+    - _SpecMul: 10
+    - _SpecPow: 200
+    - _SpecularAlbedoTint: 0.21
+    - _SpecularArea: 0.176
+    - _SpecularHighlights: 1
+    - _SpecularIntensity: 0
+    - _SpecularSharpness: 0
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 0
+    - _StencilOp: 0
+    - _TilingMode: 0
+    - _USENORMAL: 1
+    - _USENORMALPOW: 0
+    - _USESHADOW: 1
+    - _UVSec: 0
+    - _UVSetAlbedo: 0
+    - _UVSetClipMap: 0
+    - _UVSetDetMask: 0
+    - _UVSetDetNormal: 0
+    - _UVSetDissolve: 0
+    - _UVSetEmission: 0
+    - _UVSetMetallic: 0
+    - _UVSetNormal: 0
+    - _UVSetOcclusion: 0
+    - _UVSetReflectivity: 0
+    - _UVSetRimMask: 0
+    - _UVSetSpecular: 0
+    - _UVSetThickness: 0
+    - _UseClipsForDissolve: 0
+    - _Value: 1
+    - _VertexColorAlbedo: 0
+    - _WireWidth: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _ClipAgainstVertexColorGreaterZeroFive: {r: 1, g: 1, b: 1, a: 1}
+    - _ClipAgainstVertexColorLessZeroFive: {r: 1, g: 1, b: 1, a: 1}
+    - _ClipSlider00: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider01: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider02: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider03: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider04: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider05: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider06: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider07: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider08: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider09: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider10: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider11: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider12: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider13: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider14: {r: 0, g: 0, b: 0, a: 0}
+    - _ClipSlider15: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.9528302, g: 0.7880325, b: 0.7880325, a: 1}
+    - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor0: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor1: {r: 0, g: 0, b: 0, a: 0}
+    - _MatcapTint: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SSColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ShadowRim: {r: 1, g: 1, b: 1, a: 1}
+    - _WireColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
