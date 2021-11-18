@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1.0052354, g: 1.1012329, b: 1.2302743, a: 1}
+  m_IndirectSpecularColor: {r: 1.0055673, g: 1.1015829, b: 1.2306762, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -25307,7 +25307,7 @@ PrefabInstance:
     - target: {fileID: 7068059249072869786, guid: 9486b87e123b44ce5875be626132b942,
         type: 3}
       propertyPath: vpsPath
-      value: C:/Users/YOU/Desktop/GitHub/1024_01/Assets/../../VPSData/VPSMap\coex_outdoor
+      value: C:/Users/YOU/Desktop/GitHub/1114_build_ver/Assets/../../VPSData/VPSMap\coex_outdoor
       objectReference: {fileID: 0}
     - target: {fileID: 7068059249072869786, guid: 9486b87e123b44ce5875be626132b942,
         type: 3}
@@ -25332,7 +25332,7 @@ PrefabInstance:
     - target: {fileID: 7068059249072869786, guid: 9486b87e123b44ce5875be626132b942,
         type: 3}
       propertyPath: vpsSimulatePath
-      value: C:/Users/YOU/Desktop/GitHub/1024_01/Assets/../../VPSData/VPSSimulationData/coex_outdoor\macdonald_1
+      value: C:/Users/YOU/Desktop/GitHub/1114_build_ver/Assets/../../VPSData/VPSSimulationData/coex_outdoor\macdonald_1
       objectReference: {fileID: 0}
     - target: {fileID: 7068059249072869786, guid: 9486b87e123b44ce5875be626132b942,
         type: 3}
@@ -40501,17 +40501,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a268856824962494b8eec3b2259629b4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -125.5132
+      value: -125.51327
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a268856824962494b8eec3b2259629b4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -26.70018
+      value: -26.700188
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a268856824962494b8eec3b2259629b4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.49982
+      value: -3.4998124
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a268856824962494b8eec3b2259629b4,
         type: 3}
@@ -43263,9 +43263,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   questList:
-  - title: "\uC0AC\uB77C\uC9C4 \uC5D0\uADF8\uC2AC\uB86F \uCE90\uB9AD\uD130\uB97C
+  - title: "\uC0AC\uB77C\uC9C4 \uC5D0\uADF8\uC2AC\uB7FF \uCE90\uB9AD\uD130\uB97C
       \uCC3E\uC544\uC8FC\uC138\uC694!"
-    clearTitle: "\uC640\uC6B0! \uC0AC\uB77C\uC9C4 \uC5D0\uADF8\uC2AC\uB86F \uCE90\uB9AD\uD130\uB97C
+    clearTitle: "\uC640\uC6B0! \uC0AC\uB77C\uC9C4 \uC5D0\uADF8\uC2AC\uB7FF \uCE90\uB9AD\uD130\uB97C
       \uB2E4 \uCC3E\uC558\uC544\uC694!"
     image: {fileID: 21300000, guid: f345a2c6e5c4a1a42839386e707b9b69, type: 3}
     locationObj: {fileID: 627905321}
