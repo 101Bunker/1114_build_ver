@@ -1,5 +1,5 @@
 # COUFUN
-## Hello we're Bunder101!
+## Hello we're Bunker101!
 
 ### Description
 코엑스에서 길을 잃어도 즐거워질 보물찾기 어플!
