@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57893213900",
+    "project_id": "coufun-54354",
+    "storage_bucket": "coufun-54354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57893213900:android:f5661fc614d9a9e4179469",
+        "android_client_info": {
+          "package_name": "com.bunker101.coufun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57893213900-f54ge0pdm4q036jr86hk7k8m2db269aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6ROulmPZdMkscmAlUWOIoBueZT_jsSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57893213900-f54ge0pdm4q036jr86hk7k8m2db269aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
